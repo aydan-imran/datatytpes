@@ -488,11 +488,11 @@ function jnustudent(name,group,roll,batch){
         
     }
 }
-var student1 = new jnustudent("imran <br/>","iml <br/>","b200111016 <br/>","16<br/>");
+var student1 = new jnustudent("imran <br/>","iml <br/>","001110 <br/>","16<br/>");
 var student2 = new jnustudent("rohim","iml<br/>","b2308434<br/>","15<br/>");
-var student3 = new jnustudent("jubaier <br/>","iml <br/>","b201016 <br/>","16<br/>");
-var student4 = new jnustudent("nahid <br/>","iml <br/>","b200111016 <br/>","16<br/>");
-var student5 = new jnustudent("sujon <br/>","iml <br/>","b200111016 <br/>","16<br/>");
+var student3 = new jnustudent("jubaier <br/>","iml <br/>","01016 <br/>","16<br/>");
+var student4 = new jnustudent("nahid <br/>","iml <br/>","001110 <br/>","16<br/>");
+var student5 = new jnustudent("sujon <br/>","iml <br/>","001110 <br/>","16<br/>");
 student1.show();
 student2.show();
 student3.show();
